@@ -3,9 +3,9 @@
 ## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
 Models
-- Post -> date:date rationale:text
-x User -> Devise
-x AdminUser -> STI
+- x Post -> date:date rationale:text
+- x User -> Devise
+- x AdminUser -> STI
 
 ## Features:
 - Approval Workflow
@@ -15,7 +15,7 @@ x AdminUser -> STI
 - Needs to be documented if employee did not log overtime
 
 ## UI:
-- Bootstrap -> formatting
+- x Bootstrap -> formatting
 
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec

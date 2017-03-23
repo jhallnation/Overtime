@@ -4,7 +4,7 @@ class CreatePosts < ActiveRecord::Migration[5.0]
       t.date :date
       t.text :ratinale
 
-      t.timestamps
+      t.timestamps null: false
     end
   end
 end
