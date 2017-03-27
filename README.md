@@ -16,6 +16,9 @@ Models
 
 ## UI:
 - x Bootstrap -> formatting
+- Icons from awesome
+- Update the styles for forms
+=
 
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec
