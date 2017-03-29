@@ -23,3 +23,4 @@ Models
 ## Refactor TODOS:
 - Refactor user association integration test in post_spec
 - refactpr posts/form for admin user with status
+- fix post_spec.rb:82 to use factories
