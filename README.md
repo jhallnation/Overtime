@@ -24,3 +24,4 @@ Models
 - Refactor user association integration test in post_spec
 - refactpr posts/form for admin user with status
 - fix post_spec.rb:82 to use factories
+- fix post_spec.rb:52 to have correct user reference and not require update
