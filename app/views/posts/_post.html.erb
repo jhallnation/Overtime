@@ -3,13 +3,16 @@
     <%= post.id %>
   </td>
   <td>
+    <%= post.overtime_request %>
+  </td>
+  <td>
     <%= post.date %>
   </td>
   <td>
     <%= post.user.full_name %>
   </td>
   <td>
-    <%= truncate(post.ratinale) %>
+    <%= link_to truncate(post.ratinale), post %>
   </td>
    <td>
     <%= status_label post.status %>
