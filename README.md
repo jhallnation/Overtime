@@ -10,18 +10,15 @@ Models
 ## Features:
 - Approval Workflow
 - SMS Sending -> link to approval or overtime input
-- Administrate admin dashboard
-- Block non admin and guest users
+- x Administrate admin dashboard
+- x Block non admin and guest users
 - Email summary to managers for approval
 - Needs to be documented if employee did not log overtime
 
 ## UI:
 - x Bootstrap -> formatting
-- Icons from awesome
+- x Icons from glyphonicons
 - x Update the styles for forms
 
 ## Refactor TODOS:
-- Refactor user association integration test in post_spec
-- refactpr posts/form for admin user with status
-- fix post_spec.rb:82 to use factories
-- fix post_spec.rb:52 to have correct user reference and not require update
+- x refactor posts/form for admin user with status
