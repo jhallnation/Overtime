@@ -6,6 +6,7 @@ Models
 - x Post -> date:date ratinale:text
 - x User -> Devise
 - x AdminUser -> STI
+- Auditing
 
 ## Features:
 - Approval Workflow
