@@ -21,5 +21,9 @@ Models
 - x Icons from glyphonicons
 - x Update the styles for forms
 
-## Refactor TODOS:
-- x refactor posts/form for admin user with status
+## TODOS:
+- integrate validation for p hone attr inuser:
+- no spaces or dashes
+- exactly 10 characters
+- all characters have to be a number
+
